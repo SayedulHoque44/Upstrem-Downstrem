@@ -1,10 +1,9 @@
-# This is main File
+# This is upstremFile01
 
 # git command
 
-    *git init
+    *git branch NewUpBranch01
+    * git checkout NewUpBranch01
     *git add .
-    *git commit -m "main file "
-    *git branch -m main
-    *git remote add origin https://github.com/SayedulHoque44/Upstrem-Downstrem.git
-    *git push -u origin main
+    *git commit -m "NewUpBranch01 file "
+    *git push --set-upstream origin NewUpBranch01
