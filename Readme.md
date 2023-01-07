@@ -1,9 +1,9 @@
-# This is upstremFile01
+# This is upstremFile02
 
 # git command
 
-    *git branch NewUpBranch01
-    * git checkout NewUpBranch01
+    *git branch NewUpBranch02
+    * git checkout NewUpBranch02
     *git add .
-    *git commit -m "NewUpBranch01 file "
-    *git push --set-upstream origin NewUpBranch01
+    *git commit -m "NewUpBranch02 file "
+    *git push --set-upstream origin NewUpBranch02
